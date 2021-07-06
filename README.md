@@ -1,5 +1,6 @@
 # Задания с виртуальных стажировок [SHIFT + ENTER by Changallenge](https://shift.changellenge.com/tasks)
 
+## Рабочая среда: Jupyter Notebook
  *Описания заданий находятся в тетрадках Jupyter*
 
 ## Версии библиотек:
