@@ -2,22 +2,10 @@
 
 ## Рабочая среда: Visual Studio
 ## Описания задания:
-* [Поиск ассоциативных правил](https://github.com/rudiandradi/shift_enter#1-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB)
-* [Анализ временных рядов и построение прогнозирующей модели ARIMA](https://github.com/rudiandradi/shift_enter#2-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%80%D1%8F%D0%B4%D0%BE%D0%B2-%D0%B8-%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B5%D0%B9-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8-arima)
-* [Анализ данных энергопромышленности](https://github.com/rudiandradi/shift_enter#3-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
-* [Обучение модели распознавать рукописные цифры](https://github.com/rudiandradi/shift_enter#4-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8-%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D1%82%D1%8C-%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D0%B5-%D1%86%D0%B8%D1%84%D1%80%D1%8B)
-
-## Версии библиотек:
-* tensorflow 2.5.0
-* keras 2.5.0
-* matplotlib 3.3.2
-* pandas 1.1.3
-* numpy 1.19.2
-* sklearn 0.23.2
-* seaborn 0.11.0
-* statsmodels 0.12.0
-* efficient_apriori 1.1.1
-
+* [Поиск ассоциативных правил](https://github.com/rudiandradi/shift_enter#%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB)
+* [Анализ временных рядов и построение прогнозирующей модели ARIMA](https://github.com/rudiandradi/shift_enter#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%80%D1%8F%D0%B4%D0%BE%D0%B2-%D0%B8-%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B5%D0%B9-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8-arima)
+* [Анализ данных энергопромышленности](https://github.com/rudiandradi/shift_enter#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
+* [Обучение модели распознавать рукописные цифры](https://github.com/rudiandradi/shift_enter#%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8-%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D1%82%D1%8C-%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D0%B5-%D1%86%D0%B8%D1%84%D1%80%D1%8B)
 
 # Поиск ассоциативных правил  
 #### *Направление Data Analyst, компания P&G*
